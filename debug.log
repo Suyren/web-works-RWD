@@ -1,0 +1,5 @@
+[1230/232808.184:ERROR:process_info.cc(632)] range at 0x3b85310c00000000, size 0x1dd fully unreadable
+[1230/232808.293:ERROR:process_info.cc(632)] range at 0x3b85312c00000000, size 0x1dd fully unreadable
+[1230/232808.293:ERROR:process_info.cc(632)] range at 0x0, size 0x1dd fully unreadable
+[0416/172628.033:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0418/133634.380:ERROR:crash_report_database_win.cc(427)] unexpected header
